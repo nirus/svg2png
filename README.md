@@ -55,9 +55,9 @@ Sample test image is inside the folder `image-samples`.
 
 - It will be available as `http://localhost:3000/sample/pockethash.svg` ( *static resource served from `image-samples` folder* )
 
-- Paste it in **textbox** and click **send**. Your PNG will rendered.
+- Paste it in the **textbox** and click **send**. Your PNG will be rendered.
 
-- Click on the **download** button to donwload the image.
+- Click on the **download** button below the rendered image to download the image.
 
 ### Thanks
 
