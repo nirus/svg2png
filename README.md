@@ -2,6 +2,8 @@
 
 The goal of this project is to convert SVG document + embedded SVG `fontface` to PNG image using browser `canvas`.
 
+### [Let's get to work](#how-to-get-this-working-) or Continue to read the story.
+
 ### Libraries used:
 
 - Next.js - ***Running server locally***
