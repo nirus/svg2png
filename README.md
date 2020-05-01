@@ -59,7 +59,7 @@ Sample test image is inside the folder `image-samples`.
 
 - Click on the **download** button below the rendered image to download the final PNG image.
 
-- To tweak output image settings, modify variables in `pages\home.js`.
+- To tweak output image settings, modify variables in `pages\index.js`.
 
 ### Thanks
 
