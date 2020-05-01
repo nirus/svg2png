@@ -1,4 +1,4 @@
-## A browser `Canvas` based SVG to PNG converter
+## Browser `Canvas` based SVG to PNG converter
 
 The goal of this project is to convert SVG document + embedded SVG `fontface` to PNG image using browser `canvas`.
 
@@ -35,11 +35,13 @@ Hmmm, You need a working browser to run this project ( ***I can live with that!*
 
 ## How to get this Working !
 
+- Make sure [nodejs](https://nodejs.org/en/) is installed on your local machine
+
 - Checkout the Repo to your local machine
 
-- Next run `npm i` on the project root
+- Next run `npm i` on the project root from terminal
 
-- Now run `npm start` to start the server
+- Now run `npm start` to start the server from terminal
 
 - Copy the url printed on the terminal window to your browser whick looks similar to `http://localhost:3000`
 
