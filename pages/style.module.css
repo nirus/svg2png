@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container img {
+    margin: auto;
+    width: 100%;
+}
+
+.container button {
+    width: 100px;
+    height: 34px;
+    margin: auto;
+}
+
+.container a {
+    font-size: 16px;
+    color: black;
+}
+
+.formclass {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.formclass input {
+    width: 70%;
+    height: 31px;
+    margin: auto;
+}
+
+.formclass button {
+    width: 20%;
+}
