@@ -19,7 +19,7 @@ Well i tried [imagemagick](https://imagemagick.org/index.php) and [Apache Batik]
 
 ### Boring solutions to above:
 
-  1. Install the fonts on the system where convertion happens - ( ***No way on Linux VM's*** )
+  1. Install the fonts on the system where conversion happens - ( ***No way on Linux VM's*** )
   2. Convert those fonts to [SVG fonts](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/SVG_fonts) using [fontforge](https://fontforge.org/en-US/) and embed it inside the original SVG document to be converted - ( ***Phew! tedious work damn!*** )
   3. Take a screenshot & use Photoshop - ( ***Wait what!*** )
 
@@ -61,6 +61,6 @@ Sample test image is inside the folder `image-samples`.
 
 ### Thanks
 
-Contribution and suggesstions are welcomed.
+Contribution and suggestions are welcomed.
 
 **Nirus**
