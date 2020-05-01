@@ -8,7 +8,7 @@ The goal of this project is to convert SVG document + embedded SVG `fontface` to
 
 - Next.js - ***Running server locally***
 - Isomorphic-Fetch - ***Building reverse proxy to bypass CORS***
-- Finally main coverter code - ***img-conv.js***
+- Finally, :heartpulse: of this POC - [***img-conv.js***](https://github.com/nirus/SVG-PNG-Convert/blob/master/pages/img-conv.js)
 
 ### Problem statement & Why this?
 
