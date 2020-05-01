@@ -49,15 +49,17 @@ Hmmm, You need a working browser to run this project ( ***I can live with that!*
 
 Sample test image is inside the folder `image-samples`.
 
-#### Follow these teps:
+#### Follow these steps:
 
-- Now the server is up & running
+- Now the server is up & running on your browser
 
-- It will be available as `http://localhost:3000/sample/pockethash.svg` ( *static resource served from `image-samples` folder* )
+- Sample image will be available as `http://localhost:3000/sample/pockethash.svg` ( *static resource served from `image-samples` folder* )
 
-- Paste it in the **textbox** and click **send**. Your PNG will be rendered.
+- Paste this link in the UI **textbox** and click **send**. Your PNG will be rendered.
 
-- Click on the **download** button below the rendered image to download the image.
+- Click on the **download** button below the rendered image to download the final PNG image.
+
+- To tweak output image settings, modify variables in `pages\home.js`.
 
 ### Thanks
 
