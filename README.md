@@ -6,7 +6,7 @@ The goal of this project is to convert SVG document + embedded SVG `fontface` to
 
 ### Libraries used:
 
-- Next.js - ***Running server locally***
+- Next.js & Express.js - ***Running server locally and quick React.js UI setup***
 - Isomorphic-Fetch - ***Building reverse proxy to bypass CORS for remote SVG Url's***
 - Finally, :heartpulse: of this POC - [***img-conv.js***](https://github.com/nirus/SVG-PNG-Convert/blob/master/pages/img-conv.js)
 
