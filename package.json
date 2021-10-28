@@ -1,6 +1,6 @@
 {
-  "name": "SVG-PNG-Convert",
-  "version": "1.0.0",
+  "name": "svg2png-convert",
+  "version": "1.0.1",
   "description": "Convert SVG image + Embedded custom fontface to PNG format using browser canvas with ease!",
   "main": "server.js",
   "author": "Nirus A.K.A Niranjan Kumar",
@@ -12,9 +12,9 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "isomorphic-fetch": "^2.2.1",
-    "next": "^9.3.2",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^12.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }

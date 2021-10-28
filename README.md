@@ -39,9 +39,9 @@ Hmmm, You need a working browser to run this project ( ***I can live with that!*
 
 - Checkout the Repo to your local machine
 
-- Next run `npm i` on the project root from terminal
+- Next run `yarn` on the project root from terminal
 
-- Now run `npm start` to start the server from terminal
+- Now run `yarn start` to start the server from terminal
 
 - Copy the url printed on the terminal window to your browser whick looks similar to `http://localhost:3000`
 
